@@ -1,0 +1,31 @@
+2024-02-25 17:54:14,087 [INFO] MainUpdater:2873 - connection check result : 10
+2024-02-25 17:54:14,219 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-02-25 17:54:14,222 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-02-25 17:54:14,223 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-02-25 17:54:14,758 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-02-25 17:54:14,758 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Jigar/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-02-25 17:54:18,305 [INFO] ApiDb:581 - Connected to CubeFinder SQLite database (C:\Users\Jigar\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2024-02-25 17:54:26,572 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-02-25 17:54:26,637 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-02-25 17:54:26,637 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Jigar/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-02-25 17:55:13,938 [INFO] MainUpdater:2873 - connection check result : 10
+2024-02-25 17:55:13,938 [INFO] MainUpdater:2873 - connection check result : 10
+2024-02-25 17:55:14,003 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-02-25 17:55:14,003 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-02-25 17:55:14,009 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-02-25 17:55:14,009 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-02-25 17:55:14,031 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-02-25 17:55:14,035 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-02-25 17:55:14,040 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 329429088 Bytes (709885952)
+2024-02-25 17:55:14,045 [INFO] OpenFileManager:312 - Change cursor
+2024-02-25 17:55:14,062 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2024-02-25 17:55:14,062 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2024-02-25 17:55:14,249 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2024-02-25 17:55:14,263 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.23.0
+2024-02-25 17:55:14,288 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2024-02-25 17:55:14,301 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.4.3.2
+2024-02-25 17:55:14,314 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.2.4
+2024-02-25 17:55:14,327 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.2
+2024-02-25 17:55:14,341 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2024-02-25 17:55:14,355 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.0.0
+2024-02-25 17:55:14,368 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
